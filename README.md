@@ -1,9 +1,9 @@
-# السلام عليكم! 👋 I'm MD Abdul Kuddus
+# 👋 I'm MD Abdul Kuddus
 
 **🚀 Full Stack Developer | Open Source Contributor | Tech Enthusiast**  
-📍 Dhaka, Bangladesh  
-📧 kuddus.dev@gmail.com  
-🌐 [Portfolio Website](https://abdulkuddus.dev)  
+📍 Mymensingh, Dhaka, Bangladesh  
+📧 abdulkuddus.dev@gmail.com  
+🌐 [Portfolio Website](https://t.me/abdulkuddusbd)  
 
 ## 🔧 Technologies & Tools
 
@@ -39,9 +39,9 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulkuddusbd)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/abdulkuddusbd)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/abdulkuddusbd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://t.me/in/abdulkuddusbd)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://t.me/abdulkuddusbd)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://t.me/abdulkuddusbd)
 
 ## 🐍 Contribution Snake
 ![Snake animation](https://github.com/AbdulKuddusBD/AbdulKuddusBD/blob/output/github-contribution-grid-snake.svg)
