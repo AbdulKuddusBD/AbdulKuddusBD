@@ -15,7 +15,7 @@
 
 ```yaml
 name        : Md. Abdul Kuddus (মোঃ আব্দুল কুদ্দুস)
-location    : Mymensingh, Bangladesh 🇧🇩
+location    : Mymensingh, Bangladesh
 role        : Freelance Web Developer (Level-3)
 focus       : Web Design, UI/UX, Chrome Extensions
 education   : Dawrah-e-Hadith | Islamic Studies
